@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm M. Nabil Fabian! 👋
 
-<!--
-**blowmamain-spec/blowmamain-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Aspiring Backend Engineer | IT Student
 
-Here are some ideas to get you started:
+I'm a Information Technology student currently diving deep into **Backend Development**. I have a strong foundation in Data Structures & Algorithms and I'm currently building scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Languages:**
+C++
+Go
+
+**Web:**
+HTML5
+
+---
+
+### ⚡ Fun Facts
+* 🏋️‍♂️ Fitness Enthusiast.
+* 🖥️ PC Hardware geek.
+* 🎓 Preparing to be a CISO someday.
+
+---
