@@ -9,7 +9,7 @@
  ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=500&lines=Cybersecurity+Enthusiast;Breaking+Things+(Legally)+Since+2023;CTF+%26+Pentest+Enjoyer+%F0%9F%9A%A9;LLinux+Tinkerer+%7C+Motor+%26+Laptop+Mechanic+%F0%9F%94%A7)](https://github.com/blowmamain-spec)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=500&lines=Cybersecurity+Enthusiast;CTF+Player+%26+Web+Pentester;Linux+Tinkerer+%7C+Python+Scripter;Currently+diving+into+OWASP+WSTG)](https://github.com/blowmamain-spec)
 
 [![GitHub followers](https://img.shields.io/github/followers/blowmamain-spec?style=social)](https://github.com/blowmamain-spec)
 [![Profile Views](https://komarev.com/ghpvc/?username=blowmamain-spec&color=00ff41&style=flat-square&label=Profile+Views)](https://github.com/blowmamain-spec)
@@ -23,7 +23,7 @@
 ```bash
 > name        : Nabil
 > location    : Indonesia 🇮🇩
-> education   : Technology Information
+> education   : Information Technology
 > status      : Learning every day
 > current     : OWASP WSTG | CTF Challenges | Web Pentesting
 > passion     : [ cybersec, linux, python, laptops, bikes ]
@@ -32,7 +32,7 @@
 Halo! Aku mahasiswa Teknologi Informasi yang sedang mencoba masuk ke dunia cybersecurity.
 Suka ngulik banyak hal.
 
-Kalau lagi nggak depan layar, mungkin lagi bongkar motor (motornya banyak masalah hwhwh) atau jalan-jalan.
+Kalau lagi nggak depan layar, biasanya lagi bongkar motor (motornya banyak masalah) atau jalan-jalan.
 
 ---
 
@@ -40,7 +40,7 @@ Kalau lagi nggak depan layar, mungkin lagi bongkar motor (motornya banyak masala
 
 ### Cybersecurity
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnoiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
@@ -80,11 +80,11 @@ Kalau lagi nggak depan layar, mungkin lagi bongkar motor (motornya banyak masala
 ## `$ echo $INTERESTS`
 
 ```
-🔐  Web Application Pentesting (OWASP WSTG is basically my bible)
-🐍  Writing Python scripts for automating boring (and interesting) stuff
-🐧  Linux — always learning
-💻  Benerin laptop: because why pay others what you can fix yourself
-🚩  CTF challenges: the best kind of homework that doesn't feel like homework
+🔐  Web application pentesting — OWASP WSTG is my main reference
+🐍  Writing Python scripts to automate repetitive tasks
+🐧  Linux, always learning something new
+💻  Fixing laptops and motorcycles on the side
+🚩  CTF challenges
 ```
 
 ---
@@ -101,14 +101,6 @@ Kalau lagi nggak depan layar, mungkin lagi bongkar motor (motornya banyak masala
 
 <div align="center">
 
-```
-[ System uptime: still grinding ]
-[ Coffee level: critical ]
-[ Learning: always ]
-```
-
-*"The quieter you become, the more you are able to hear."*
-
-<sub>Made with ☕ + terlalu banyak waktu di terminal</sub>
+<sub>Made with ☕ and way too much time in the terminal</sub>
 
 </div>
