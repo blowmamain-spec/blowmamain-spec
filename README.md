@@ -25,14 +25,14 @@
 > location    : Indonesia 🇮🇩
 > education   : Information Technology
 > status      : Learning every day
-> current     : OWASP WSTG | CTF Challenges | Web Pentesting
+> current     : CTF Challenges | Web Pentesting | Web Development
 > passion     : [ cybersec, web development]
 ```
 
-Halo! Aku mahasiswa Teknologi Informasi yang sedang mencoba masuk ke dunia cybersecurity.
+Halo! Aku mahasiswa Teknologi Informasi yang sedang mencoba masuk ke dunia cybersecurity dan Web Development.
 Suka ngulik banyak hal.
 
-Kalau lagi nggak depan layar, biasanya lagi tidur.
+Kalau lagi nggak depan layar, biasanya lagi tidur atau jalan-jalan.
 
 ---
 
@@ -40,8 +40,8 @@ Kalau lagi nggak depan layar, biasanya lagi tidur.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=blowmamain-spec&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blowmamain-spec&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats-blush-tau-25.vercel.app/api?username=blowmamain-spec&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats-blush-tau-25.vercel.app/api/top-langs/?username=blowmamain-spec&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="49%" />
 
 <img src="https://streak-stats.demolab.com/?user=blowmamain-spec&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="60%" />
 
