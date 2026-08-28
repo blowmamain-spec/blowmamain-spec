@@ -33,7 +33,7 @@ Halo! Aku mahasiswa Teknologi Informasi yang sedang mencoba masuk ke dunia cyber
 Suka ngulik banyak hal.
 
 Kalau lagi nggak depan layar, biasanya lagi tidur atau jalan-jalan.
-
+<!--
 ---
 
 ## `$ github --stats`
@@ -56,6 +56,7 @@ Kalau lagi nggak depan layar, biasanya lagi tidur atau jalan-jalan.
 [![GitHub](https://img.shields.io/badge/GitHub-blowmamain--spec-181717?style=for-the-badge&logo=github)](https://github.com/blowmamain-spec)
 
 </div>
+-->
 
 ---
 
