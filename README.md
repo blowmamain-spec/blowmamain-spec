@@ -9,7 +9,7 @@
  ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=500&lines=Cybersecurity+Enthusiast;CTF+Player+%26+Web+Pentester;Linux+Tinkerer+%7C+Python+Scripter;Currently+diving+into+OWASP+WSTG)](https://github.com/blowmamain-spec)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=500&lines=Cybersecurity+Enthusiast;CTF+Player+%26+Web+Pentester;Linux+Learner+%7C+Web+Developer;Currently+diving+into+CySec+WebDev)](https://github.com/blowmamain-spec)
 
 [![GitHub followers](https://img.shields.io/github/followers/blowmamain-spec?style=social)](https://github.com/blowmamain-spec)
 [![Profile Views](https://komarev.com/ghpvc/?username=blowmamain-spec&color=00ff41&style=flat-square&label=Profile+Views)](https://github.com/blowmamain-spec)
